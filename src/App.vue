@@ -7,7 +7,6 @@
 				<button @click="handleClick('location')">Order by location</button>
 			</div>
 		</header>
-
 		<JobList :jobs="jobs" :order="order" />
 	</div>
 </template>
