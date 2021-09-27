@@ -1,3 +1,3 @@
-type OrderTerm = 'title' | 'salary' | 'location';
+type OrderTerm = 'title' | 'salary' | 'location'
 
-export default OrderTerm;
+export default OrderTerm
